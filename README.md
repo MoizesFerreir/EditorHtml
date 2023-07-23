@@ -4,6 +4,7 @@
 
 <br>
 
+## Enquadramento da interface
 
 ![2023-07-16 (2)](https://github.com/MoizesFerreir/EditorHtml/assets/91918988/d37534ee-f14b-42a8-895c-e4cba3566b46)
 
